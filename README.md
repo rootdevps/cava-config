@@ -24,5 +24,5 @@ The config uses this stunning Catppuccin Mocha gradient:
 #f38ba8 (Red)
 
 **Installation**
-Method 1:Direct Download Download the kitty.conf file from this repository
+Method 1:Direct Download Download the cava.conf file from this repository
 Method 2:Include in Existing Config Add this line to your existing
